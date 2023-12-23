@@ -1,0 +1,212 @@
+/*reset*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+}
+
+h2.title {
+    font-weight: 400;
+    font-size: 34px;
+    color: #333;
+    line-height: 36px;
+    padding: 0 30px;
+    margin: 0 0 30px;
+    text-align: center;
+   }
+   
+   h2.title span {
+    display: block;
+    font-family: 'DINRoundPro', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #64c977;
+   }
+   
+   h2.title.white,
+   h2.title.white span {
+    color: #fff;
+   }
+   
+   h2.title.bold {
+    font-family: 'DINRoundPro', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+   }
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+main {
+    display: block;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+*::-webkit-input-placeholder {
+    color: #a9a9a9;
+    opacity: 1;
+}
+
+*:-moz-placeholder {
+    color: #a9a9a9;
+    opacity: 1;
+}
+
+*::-moz-placeholder {
+    color: #a9a9a9;
+    opacity: 1;
+}
+
+*:-ms-input-placeholder {
+    color: #a9a9a9;
+    opacity: 1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+button,
+input,
+select,
+a {
+    outline: none;
+}
+
+button,
+input,
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: subpixel-antialiased !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}

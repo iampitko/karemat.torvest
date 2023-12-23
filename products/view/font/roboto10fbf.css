@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('robotothin3aa6e.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotothin3aa6e.woff2*/
+    format('woff2'), url('robotothin8c459.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotothin8c459.woff*/
+    format('woff'), url('robotothin5fda2.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotothin5fda2.ttf*/
+    format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('robotothinitalic9a5c4.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotothinitalic9a5c4.woff2*/
+    format('woff2'), url('robotothinitalic17102.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotothinitalic17102.woff*/
+    format('woff'), url('robotothinitalicb3cd5.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotothinitalicb3cd5.ttf*/
+    format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('robotolightae54f.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotolightae54f.woff2*/
+    format('woff2'), url('robotolight1d980.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotolight1d980.woff*/
+    format('woff'), url('robotolight28283.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotolight28283.ttf*/
+    format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('robotolightitalicfd717.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotolightitalicfd717.woff2*/
+    format('woff2'), url('robotolightitalic43b45.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotolightitalic43b45.woff*/
+    format('woff'), url('robotolightitaliceb48a.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotolightitaliceb48a.ttf*/
+    format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('robotoc75bd.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotoc75bd.woff2*/
+    format('woff2'), url('robotoe81eb.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotoe81eb.woff*/
+    format('woff'), url('robotod81fd.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotod81fd.ttf*/
+    format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('robotoitalic02de5.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotoitalic02de5.woff2*/
+    format('woff2'), url('robotoitalicdc0a0.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotoitalicdc0a0.woff*/
+    format('woff'), url('robotoitalic906bd.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotoitalic906bd.ttf*/
+    format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('robotomedium59e15.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotomedium59e15.woff2*/
+    format('woff2'), url('robotomediumbba9c.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotomediumbba9c.woff*/
+    format('woff'), url('robotomedium182a5.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotomedium182a5.ttf*/
+    format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('robotomediumitalicd3ec5.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotomediumitalicd3ec5.woff2*/
+    format('woff2'), url('robotomediumitalic36903.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotomediumitalic36903.woff*/
+    format('woff'), url('robotomediumitalic88c16.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotomediumitalic88c16.ttf*/
+    format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('robotobold06a91.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotobold06a91.woff2*/
+    format('woff2'), url('robotoboldf4502.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotoboldf4502.woff*/
+    format('woff'), url('robotoboldd4def.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotoboldd4def.ttf*/
+    format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('robotobolditalic65d96.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotobolditalic65d96.woff2*/
+    format('woff2'), url('robotobolditalic1f9bc.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotobolditalic1f9bc.woff*/
+    format('woff'), url('robotobolditalic77d23.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotobolditalic77d23.ttf*/
+    format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('robotoblack6c405.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotoblack6c405.woff2*/
+    format('woff2'), url('robotoblackc3afe.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotoblackc3afe.woff*/
+    format('woff'), url('robotoblack01d5d.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotoblack01d5d.ttf*/
+    format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('robotoblackitalicc7014.woff2')/*tpa=http://beri.com.ua/smartcamp/files/robotoblackitalicc7014.woff2*/
+    format('woff2'), url('robotoblackitalica9354.woff')/*tpa=http://beri.com.ua/smartcamp/files/robotoblackitalica9354.woff*/
+    format('woff'), url('robotoblackitalic46104.ttf')/*tpa=http://beri.com.ua/smartcamp/files/robotoblackitalic46104.ttf*/
+    format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

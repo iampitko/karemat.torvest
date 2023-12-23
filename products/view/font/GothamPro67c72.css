@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Light21c90.woff2')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Light21c90.woff2*/
+    format('woff2'), url('subset-GothamPro-Light408bd.woff')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Light408bd.woff*/
+    format('woff'), url('subset-GothamPro-Light670d8.ttf')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Light670d8.ttf*/
+    format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamProff936.woff2')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamProff936.woff2*/
+    format('woff2'), url('subset-GothamPro9eeea.woff')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro9eeea.woff*/
+    format('woff'), url('subset-GothamPro66b66.ttf')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro66b66.ttf*/
+    format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Medium1e09d.woff2')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Medium1e09d.woff2*/
+    format('woff2'), url('subset-GothamPro-Medium9505a.woff')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Medium9505a.woff*/
+    format('woff'), url('subset-GothamPro-Medium29bc3.ttf')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Medium29bc3.ttf*/
+    format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Boldef5ec.woff2')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Boldef5ec.woff2*/
+    format('woff2'), url('subset-GothamPro-Boldc2ea1.woff')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Boldc2ea1.woff*/
+    format('woff'), url('subset-GothamPro-Bold919a0.ttf')/*tpa=http://beri.com.ua/smartcamp/files/subset-GothamPro-Bold919a0.ttf*/
+    format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
