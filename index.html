@@ -550,7 +550,7 @@ fbq('track', 'PageView');
                     </div>
                 </div>
             </div>
-            <form id="order_form" class="m1-form" role="form" action="send.php" method="post" onsubmit="if(this.name.value==''){alert('Введіть ваше імʼя!');return false}if(this.phone.value==''){alert('Введіть ваш номер телефону');return false}return true;">
+            <form id="order_form" class="m1-form" role="form" action="send.php" method="post" onsubmit="if(this.name.value==''){alert('Введіть ваше імʼя!');return false}if(this.phone.value==''){alert('Введіть ваш номер телефону');return false}if(this.counter.value=='1'){alert('Введіть розмір каремату');return false}return true;">
                 
 			
 				
@@ -558,10 +558,10 @@ fbq('track', 'PageView');
                 <input class="field" name="phone" type="tel" placeholder="Введіть телефон">
                 <select class="select-container" name="counter">
                     <option value="1" selected="">Обрати розмір</option>
-                    <option value="size1">300x400</option>
-                    <option value="size2">500x600</option>
-                    <option value="size3">700x900</option>
-                    <option value="size4">700x900</option>
+                    <option value="size1">↕ 300x400</option>
+                    <option value="size2">↕ 500x600</option>
+                    <option value="size3">↕ 700x900</option>
+                    <option value="size4">↕ 1000x1200</option>
                 </select>
                 <button class="button-m" type="submit">Замовити зараз</button>
             </form>
